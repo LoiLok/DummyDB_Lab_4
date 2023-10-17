@@ -1,0 +1,25 @@
+{
+	"name": "webShop",
+	"columns": [
+	 {
+		"name": "article",
+		"type": "int",
+		"isPrimary": true
+	 },
+	 {
+		"name": "userName",
+		"type": "string",
+		"isPrimary": false
+	 },
+	 {
+		"name": "productName",
+		"type": "string",
+		"isPrimary": false
+	 },
+	 {
+		"name": "count",
+		"type": "int",
+		"isPrimary": false
+	 }
+	]
+}
